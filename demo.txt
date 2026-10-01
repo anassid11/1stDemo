@@ -1,1 +1,1 @@
-hello world of Ai
+hello world of Ai. Now take the input from user.
