@@ -1,1 +1,2 @@
-hello world of Ai. Now take the input from user.
+hello world of Ai.
+Now take the input from user.
