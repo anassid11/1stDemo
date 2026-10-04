@@ -1,0 +1,2 @@
+can add or remove a user
+can roll
